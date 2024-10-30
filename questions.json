@@ -1,0 +1,122 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Benny starts at number 2 on the number line. If he hops 5 steps forward, where does he end up?<br>[2 + 5 = ? ]",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": 2,
+        "secondImg":"./images/1.png"
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Benny starts at number 4 and hops 3 steps forward. What number does he land on?<br>[4 + 3 = ? ]",
+        "options": [
+            "5",
+            "7",
+            "9",
+            "1"
+        ],
+        "correct": 1,
+        "secondImg":"./images/2.png"
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Benny starts at number 1 and hops 4 steps forward. What number does Benny reach?<br>[1 + 4 = ? ]",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "8"
+        ],
+        "correct": 1,
+        "secondImg":"./images/3.png"
+    },
+    {
+        "questionNo": "Q4",
+        "question": "If Benny starts at number 7 and hops 2 steps to the right, which number does he land on?<br>[7 + 2 = ? ]",
+        "options": [
+            "5",
+            "6",
+            "8",
+            "9"
+        ],
+        "correct": 3,
+        "secondImg":"./images/4.png"
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Starting from number 3, Benny hops 3 steps forward. What number does he land on during his exploration?<br>[3 + 3 = ? ]",
+        "options": [
+            "6",
+            "7",
+            "5",
+            "8"
+        ],
+        "correct": 0,
+        "secondImg":"./images/5.png"
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Benny begins at number 6 and makes 4 hops to the right. Which number does he reach at the end of his hopping spree?<br>[6 + 4 = ? ]",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "12"
+        ],
+        "correct": 2,
+        "secondImg":"./images/6.png"
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Benny starts at number 10 on his magical number line. After hopping 2 steps forward, which number does he reach?<br>[10 + 2 = ? ]",
+        "options": [
+            "12",
+            "13",
+            "14",
+            "11"
+        ],
+        "correct": 0,
+        "secondImg":"./images/7.png"
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Benny starts at number 12 and hops 5 steps forward. Which number does he land on?<br>[12 + 5 = ? ]",
+        "options": [
+            "16",
+            "17",
+            "18",
+            "15"
+        ],
+        "correct": 1,
+        "secondImg":"./images/8.png"
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Just before reaching the final destination Benny starts at 34 on the number line. He jumps 5 steps forward. On which number will he reach?<br>[34 + 5 = ? ]",
+        "options": [
+            "39",
+            "37",
+            "38",
+            "36"
+        ],
+        "correct": 0,
+        "secondImg":"./images/9.png"
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Benny starts at 31 on the number line. He jumps 6 steps forward. On which number will he reach?<br>[31 + 6 = ? ]",
+        "options": [
+            "31",
+            "35",
+            "34",
+            "37"
+        ],
+        "correct": 3,
+        "secondImg":"./images/10.png"
+    }
+]
